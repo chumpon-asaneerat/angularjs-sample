@@ -1,21 +1,21 @@
 {
-  "name": "github-expressjs-buildtools-template",
-  "version": "1.0.0",
-  "description": "The github express.js with buildtools template",
-  "main": "server.js",
+    "name": "angular-sample",
+    "version": "1.0.0",
+    "description": "The express.js angular sample",
+    "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chumpon-asaneerat/github-expressjs-buildtools-template.git"
+    "url": "git+https://github.com/chumpon-asaneerat/angularjs-sample.git"
   },
   "author": "Chumpon Asaneerat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chumpon-asaneerat/github-expressjs-buildtools-template/issues"
+    "url": "https://github.com/chumpon-asaneerat/angularjs-sample/issues"
   },
-  "homepage": "https://github.com/chumpon-asaneerat/github-expressjs-buildtools-template#readme",
+  "homepage": "https://github.com/chumpon-asaneerat/angularjs-sample#readme",
   "devDependencies": {
     "@types/dot": "^1.1.3",
     "@types/gulp": "^4.0.6",

@@ -1,2 +1,2 @@
-# github-expressjs-buildtools-template
-The github express.js with buildtools template
+# angular sample
+The express.js angular sample.
